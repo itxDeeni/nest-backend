@@ -37,7 +37,7 @@
     "@faker-js/faker": "^7.6.0",
     "@nestjs-modules/mailer": "1.8.1",
     "@nestjs/axios": "^1.0.0",
-    "@nestjs/bull": "^0.6.2",
+    "@nestjs/bull": "^10.0.0",
     "@nestjs/common": "9.2.1",
     "@nestjs/config": "2.2.0",
     "@nestjs/core": "9.2.1",
