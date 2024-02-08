@@ -112,7 +112,7 @@
     "supertest": "6.2.3",
     "ts-jest": "28.0.1",
     "ts-loader": "9.2.8",
-    "ts-node": "10.7.0",
+    "ts-node": "10.9.2",
     "tsconfig-paths": "3.14.1",
     "tslib": "2.4.0",
     "typescript": "4.6.4"
