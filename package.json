@@ -78,7 +78,7 @@
     "swagger-ui-express": "4.3.0",
     "telegraf": "^4.11.2",
     "twitter": "1.7.1",
-    "typeorm": "0.3.11",
+    "typeorm": "0.3.20",
     "typeorm-transactional-cls-hooked": "^0.1.21"
   },
   "devDependencies": {
