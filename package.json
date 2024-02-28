@@ -35,7 +35,7 @@
     "@concepta/typeorm-seeding": "^4.0.0-beta.0",
     "@discord-nestjs/core": "^4.3.1",
     "@faker-js/faker": "^7.6.0",
-    "@nestjs-modules/mailer": "1.8.1",
+    "@nestjs-modules/mailer": "1.11.2",
     "@nestjs/axios": "^1.0.0",
     "@nestjs/bull": "^0.6.2",
     "@nestjs/common": "9.2.1",
