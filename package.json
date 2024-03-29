@@ -70,7 +70,7 @@
     "passport-jwt": "4.0.0",
     "pg": "8.7.3",
     "puppeteer": "^19.4.0",
-    "reflect-metadata": "0.1.13",
+    "reflect-metadata": "0.2.2",
     "rimraf": "3.0.2",
     "rxjs": "7.5.5",
     "short-unique-id": "^4.4.4",
