@@ -75,7 +75,7 @@
     "rxjs": "7.5.5",
     "short-unique-id": "^4.4.4",
     "source-map-support": "0.5.21",
-    "swagger-ui-express": "4.3.0",
+    "swagger-ui-express": "5.0.1",
     "telegraf": "^4.11.2",
     "twitter": "1.7.1",
     "typeorm": "0.3.11",
