@@ -48,7 +48,7 @@
     "@nestjs/swagger": "6.1.4",
     "@nestjs/typeorm": "9.0.1",
     "@nestjs/websockets": "^9.0.9",
-    "apple-signin-auth": "1.5.1",
+    "apple-signin-auth": "1.7.7",
     "bcryptjs": "2.4.3",
     "bull": "^4.10.2",
     "cache-manager": "^5.1.1",
